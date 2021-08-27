@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "AkumaMod",
+  "mainClass": "tech.myrseth.akumamod.AkumaMod",
+  "description": "Check translation, playtime and punishment history with ease.\nV1.3",
+  "version": 1.3,
+  "author": "Lipsticks",
+  "category": 2,
+  "icon": "https://i.imgur.com/i2XCzPH.jpg"
+}
